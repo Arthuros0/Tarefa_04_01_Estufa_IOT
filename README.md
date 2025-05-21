@@ -1,4 +1,4 @@
-# **EM DESENVOLVIMENTO: Estufa inteligente IOT**
+# **Estufa inteligente IOT**
 Este projeto implementa um sistema de monitoramento e controle para estufas utilizando o microcontrolador Raspberry Pi Pico W, LEDs endereçáveis WS2812 e display OLED ssd1306.O objetivo é otimizar o uso de recursos naturais, como água e fertilizantes, além de melhorar a eficiência energética e a qualidade da produção.
 
 ## **Funcionalidades**
