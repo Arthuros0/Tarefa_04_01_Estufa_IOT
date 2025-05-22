@@ -40,7 +40,7 @@ Certifique-se de que os seguintes itens estão instalados:
    git init
    ```
    ```bash
-   git clone https://github.com/Arthuros0/U7-Projeto-Final.git
+   https://github.com/Arthuros0/Tarefa_04_01_Estufa_IOT.git
    ```
 3. Abra o projeto clonado no VS Code
 
